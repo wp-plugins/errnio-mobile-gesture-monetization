@@ -24,7 +24,7 @@ Our main features include enhancement of the following items:
 * **Text Selection** - enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site. 
 * **Bottom bar** - in certain mobile browsers, an additional bottom bar is displayed, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing.
 
-We are currently running 2 products, more are available on beta mode. If you'd like to try them out as well, please let us know. 
+We are currently running those products, more are available on beta mode. If you'd like to try them out as well, please let us know. 
 
 = How it Works =
 The **errnio plugin** reaches out to errnio servers and includes the errnio **gesture recognition code**.
