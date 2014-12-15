@@ -57,25 +57,24 @@ If you have any problems, contact us at support@errnio.com
 = What is errnio? =
  errnio adds gesture based monetization to the mobile view of your site, and enhances user engagement with additional mobile functionality.errnio allows you to enjoy added revenue for your mobile traffic while any other monetization units continue to work undisturbed.
 
-* **What is the difference between errnio and other monetization units?**
+= What is the difference between errnio and other monetization units? =
 Glad you asked, other then the fact that errnio is a new type of monetization relying on the user?s finger movements across you website, it also contains NO banners or popups!
 Most monetization products for mobile compete with each other for the same space they take on you site. **errnio** can live side by side with any banner (or display unit) and you can profit from two revenue streams rather then only one.
 
-* **Does errnio run on desktop screens?**
+= Does errnio run on desktop screens? =
 Niet!
 
-* **After I download the plugin, what do I do to get my money?**
+= After I download the plugin, what do I do to get my money? =
 After you installed the plugin you should get a notification requesting your site-id.
 Go to our site, errnio.com and register. Once you?ve done this, you?ll get a site-id which you can type in the options page of the plugin (follow the notification).
 After everything is ready you can manage your plugin on the errnio dashboard and collect you revenues.
 
-* **What are the rates? How much money can I make?**
+= What are the rates? How much money can I make? =
 We have a simple revenue share program which you can access once registered. 
 You can contact us for more information sales@errnio.com
 
-* **Can errnio harm my site code or functionality?**
-Absolutely NO!
-errnio is fully encapsulated from your code(or WP code) and can in no way impact anything in your site.
+= Can errnio harm my site code or functionality? = 
+Absolutely NO! errnio is fully encapsulated from your code(or WP code) and can in no way impact anything in your site.
 Nevertheless if you do experience something that bothers you errnio will be glad to assist at support@errnio.com 
 
 FOR MORE:
@@ -83,12 +82,9 @@ support@errnio.com
 
 == Screenshots ==
 
-== Screenshots ==
 1. errnio search bar
 2. errnio search bar display
 3. errnio text select tool
-
-== Changelog ==
 
 == Changelog ==
 **0.1 Beta
