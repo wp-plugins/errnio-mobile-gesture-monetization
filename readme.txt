@@ -1,4 +1,4 @@
-=== errnio Gesture Monetization pack ===
+=== errnio Gesture Monetization ===
 Contributors: errnio
 Donate link: 
 Tags: mobile,advertising, ad units, pay per click, PPC,monetise, monetize
