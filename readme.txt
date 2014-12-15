@@ -20,7 +20,7 @@ Demo this on your site in seconds with our cool <a href="http://www.errnio.com/s
 
 Our main features include enhancement of the following items:
 
-* **Web Search** - a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled \"top hits\". This serves users with promoted actions and content helping you as a site owner, to earn revenue off exiting traffic in a seamless and unobtrusive way.
+* **Web Search** - a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled "top hits". This serves users with promoted actions and content helping you as a site owner, to earn revenue off exiting traffic in a seamless and unobtrusive way.
 * **Text Selection** - enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site. 
 * **Bottom bar** - in certain mobile browsers, an additional bottom bar is displayed, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing.
 
@@ -33,7 +33,8 @@ Using the unique **errnio** plugin maxmizes your full monetization potential on 
 
 = Advantages =
 
-Make sure to get your ID and Sign up to our service to gain access to:
+Make sure to get your ID and Sign up to our service to gain access to: 
+
 * Troubleshooting and support
 * Revenue reporting and accounts management 
 * Customisation options
