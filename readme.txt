@@ -54,7 +54,7 @@ If you have any problems, contact us at support@errnio.com
 
 == Frequently Asked Questions ==
 
-= **What is errnio?** =
+= What is errnio? =
  errnio adds gesture based monetization to the mobile view of your site, and enhances user engagement with additional mobile functionality.errnio allows you to enjoy added revenue for your mobile traffic while any other monetization units continue to work undisturbed.
 
 * **What is the difference between errnio and other monetization units?**
