@@ -25,7 +25,7 @@ Our main features include enhancement of the following items:
 * **Bottom bar** - in certain mobile browsers, an additional bottom bar is displayed, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing.
 
 = How it Works =
-The **errnio plugin** reaches out to errnio servers and injects the errnio **gesture recognition code**.
+The **errnio plugin** reaches out to errnio servers and includes the errnio **gesture recognition code**.
 The gesture recognition code taps into your visitor gestures, performed on your site, and analyses which errnio monetization unit will work effectively - choosing among the several units detailed above. 
 errnio works with various 3rd party advertisers by connecting the right offers to the right gesture in the right context in and the right time - **ONLY** and **EXCLUSIVELY** within the errnio gesture functions. We never inject ads into your site!
 
@@ -46,7 +46,7 @@ Adding the errnio monetization pack plugin to your admin page is pretty easy. Tr
 1. Go to the Plugins tab at your WP admin page and click on Add New.
 2. In the search box type in errnio and click on the Search Plugins button.
 3. Download the plugin.
-4. Activate the plugin you are installing.
+4. Activate the plugin.
 5. You should receive a notification on your dashboard requesting your site ID, follow the instructions there.
 
 **Don't forget** to register your site to get a site ID at <a href="http://www.errnio.com/" target="_blank">errnio!</a>
@@ -55,10 +55,10 @@ If you have any problems, contact us at support@errnio.com
 == Frequently Asked Questions ==
 
 = What is errnio? =
- errnio adds gesture based monetization to the mobile view of your site, and enhances user engagement with additional mobile functionality.errnio allows you to enjoy added revenue for your mobile traffic while any other monetization units continue to work undisturbed.
+errnio adds gesture based monetization to the mobile view of your site, and enhances user engagement with additional mobile functionality. errnio allows you to enjoy added revenue for your mobile traffic while any other monetization units continue to work undisturbed.
 
 = What is the difference between errnio and other monetization units? =
-Glad you asked, other then the fact that errnio is a new type of monetization relying on the user's finger movements across you website, it also contains NO banners or popups!
+Glad you asked, other then the fact that errnio is a new type of monetization relying on the user's finger movements across your website, it also contains NO banners or popups!
 Most monetization products for mobile compete with each other for the same space they take on you site. **errnio** can live side by side with any banner (or display unit) and you can profit from two revenue streams rather then only one.
 
 = Does errnio run on desktop screens? =
@@ -66,8 +66,8 @@ Niet!
 
 = After I download the plugin, what do I do to get my money? =
 After you installed the plugin you should get a notification requesting your site-id.
-Go to our site, errnio.com and register. Once you?ve done this, you?ll get a site-id which you can type in the options page of the plugin (follow the notification).
-After everything is ready you can manage your plugin on the errnio dashboard and collect you revenues.
+Go to our site, <a href="http://www.errnio.com/" target="_blank">errnio.com</a> and register. Once you've done this, you'll get a site-id which you can paste into the options page of the plugin (follow the notification).
+After everything is ready you can manage your plugin on the errnio dashboard and collect your revenues.
 
 = What are the rates? How much money can I make? =
 We have a simple revenue share program which you can access once registered. 
@@ -77,10 +77,11 @@ You can contact us for more information sales@errnio.com
 Absolutely NO! errnio is fully encapsulated from your code(or WP code) and can in no way impact anything in your site.
 Nevertheless if you do experience something that bothers you errnio will be glad to assist at support@errnio.com 
 
-FOR MORE:
+FOR MORE INFORMATION:
 support@errnio.com
 
 == Screenshots ==
+We are currently running 2 products, more are available on beta mode. If you'd like to try them out as well, please let us know. 
 
 1. errnio search bar
 2. errnio search bar display
