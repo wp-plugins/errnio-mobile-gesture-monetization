@@ -40,12 +40,12 @@ function errnio_options() {
 							<input name="errnio_api" type="text" id="errnio_api" value="<?php echo get_option('errnio_api'); ?>" />
 						</div>
 					</div>
-					
+					</br>
 					<div class="wrap-options-separator"></div>
 					
 					<div class="wrap-options-right">
 						<div class="element">
-							Dont have an errnio site ID? <a class="publisher_button" href="http://errnio.com/#how-to-contact-errnio">Become a Publisher</a> </div></br>
+							Don't have an errnio site ID? <a class="publisher_button" href="http://errnio.com/#how-to-contact-errnio">Become a Publisher</a> </div></br>
 							<div class="description_small">Grab our unique code for your site and go live today.</div>
 						</div>
 					</div>	
