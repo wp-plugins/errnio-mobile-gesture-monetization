@@ -58,7 +58,7 @@ If you have any problems, contact us at support@errnio.com
  errnio adds gesture based monetization to the mobile view of your site, and enhances user engagement with additional mobile functionality.errnio allows you to enjoy added revenue for your mobile traffic while any other monetization units continue to work undisturbed.
 
 = What is the difference between errnio and other monetization units? =
-Glad you asked, other then the fact that errnio is a new type of monetization relying on the user?s finger movements across you website, it also contains NO banners or popups!
+Glad you asked, other then the fact that errnio is a new type of monetization relying on the user's finger movements across you website, it also contains NO banners or popups!
 Most monetization products for mobile compete with each other for the same space they take on you site. **errnio** can live side by side with any banner (or display unit) and you can profit from two revenue streams rather then only one.
 
 = Does errnio run on desktop screens? =
