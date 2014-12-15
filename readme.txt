@@ -8,7 +8,7 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-errnio adds gesture based monetization tools to the mobile view of the site. Enhances mobile engagement with additional mobile functionality. 
+errnio adds gesture based monetization tools to the mobile view of the site. Enhances mobile engagement with additional mobile functionality.
 
 == Description ==
 
@@ -17,7 +17,7 @@ The **Gesture Monetization** pack from errnio adds a new revenue and engagement 
 Demo this on your site in seconds with our cool [simulator!](http://www.errnio.com/simulator/\"errnio simulator\")
 
 Our main features include enhancement of the following items:
-* **Web Search** ? a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled \"top hits\". This serves users with promoted actions and content helping you as a site owner, to earn revenue off exiting traffic in a seamless and unobtrusive way.
+* * **Web Search** ? a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled \"top hits\". This serves users with promoted actions and content helping you as a site owner, to earn revenue off exiting traffic in a seamless and unobtrusive way.
 * **Text Selection** ? enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site. 
 * **Bottom bar** ? in certain mobile browsers, an additional bottom bar is displayed, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing.
 
@@ -38,19 +38,18 @@ Make sure to get your ID and Sign up to our service to gain access to:
 
 Adding the errnio monetization pack Plugin to your admin page.
 
-1. Go to the Plugins tab at your WP admin page and click on Add New.
+1.  Go to the Plugins tab at your WP admin page and click on Add New.
 2. In the search box type in errnio and click on the Search Plugins button.
 3. Download the plugin to your site.
 4. Activate the plugin you\'re installing.
 5. You\'ll receive a notification requesting your site-id, follow the instructions there.
 
-**Don\'t forget** to register your site at [errnio](http://www.errnio.com/\"errnio registration\") 
+**Don't forget** to register your site at [errnio](http://www.errnio.com/#how-to-contact-errnio)
 
 If you have any problems, contact us at supoort@errnio.com
 
 == Frequently asked questions ==
 
-== Frequently Asked Questions ==
 * **What is errnio?**
 errnio adds gesture based monetization to the mobile view of your site, and enhances user engagement with additional mobile functionality.errnio allows you to enjoy added revenue for your mobile traffic while any other monetization units continue to work undisturbed.
 * **What is the difference between errnio and other monetization units?**
@@ -75,15 +74,14 @@ support@errnio.com
 
 == Screenshots ==
 
-== Screenshots ==
 1. errnio search bar
 2. errnio search bar display
 3. errnio text select tool
 
 == Changelog ==
 
-== Changelog ==
 **0.1 Beta
 
-== Upgrade Notice ==
-**0.1 beta release
+== Upgrade notice ==
+
+**0.1 Beta
