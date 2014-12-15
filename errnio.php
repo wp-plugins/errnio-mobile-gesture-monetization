@@ -45,7 +45,7 @@ function errnio_options() {
 					
 					<div class="wrap-options-right">
 						<div class="element">
-							<a class="publisher_button">Become a Publisher</a> 
+							Dont have an errnio site ID? <a class="publisher_button" href="http://errnio.com/#how-to-contact-errnio">Become a Publisher</a> </div></br>
 							<div class="description_small">Grab our unique code for your site and go live today.</div>
 						</div>
 					</div>	
