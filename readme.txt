@@ -12,23 +12,27 @@ errnio adds gesture based monetization tools to the mobile view of the site. Enh
 
 == Description ==
 
-The **Gesture Monetization** pack from errnio adds a new revenue and engagement layer to your site with a simple addition of a plugin. The plugin enables several gesture based tools to be added to any mobile browsing session. The tools act as enhancements to regular bowser elements, which enhance the experience of the user on a mobile device. 
+The **Gesture Monetization** pack from **errnio** adds a new revenue and engagement layer to your site with a simple addition of a plugin. The plugin enables several gesture based tools to be added to any mobile browsing session. The tools act as enhancements to regular bowser elements, which enhance the experience of the user on a mobile device. 
 
-Demo this on your site in seconds with our cool [simulator!](http://www.errnio.com/simulator/\"errnio simulator\")
+Demo this on your site in seconds with our cool <a href="http://www.errnio.com/simulator" target="_blank">Simulator!</a>
+
+= Features =
 
 Our main features include enhancement of the following items:
-* **Web Search** ? a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled \"top hits\". This serves users with promoted actions and content helping you as a site owner, to earn revenue off exiting traffic in a seamless and unobtrusive way.
-* **Text Selection** ? enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site. 
-* **Bottom bar** ? in certain mobile browsers, an additional bottom bar is displayed, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing.
 
-=How it Works=
+* **Web Search** - a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled \"top hits\". This serves users with promoted actions and content helping you as a site owner, to earn revenue off exiting traffic in a seamless and unobtrusive way.
+* **Text Selection** - enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site. 
+* **Bottom bar** - in certain mobile browsers, an additional bottom bar is displayed, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing.
+
+= How it Work s=
 The errnio plugin reaches out to errnio servers and injects the errnio gesture recognition code.
 The gesture recognition code taps into your visitor gestures, performed on your site, and analyses which errnio monetization unit will work effectively - choosing among the several units detailed above. 
 errnio works with various 3rd party advertisers by connecting the right offers to the right gesture in the right context in and the right time - ONLY and EXCLUSIVELY within the errnio gesture functions. We never inject ads into your site!
 
-Using errnio unique plugin brings you the full potential of monetization in the mobile world. 
+Using the unique **errnio** plugin maxmizes your full monetization potential on mobile web. 
 
-=Advantages=
+= Advantages =
+
 Make sure to get your ID and Sign up to our service to gain access to:
 * Troubleshooting and support
 * Revenue reporting and accounts management 
@@ -44,13 +48,11 @@ Adding the errnio monetization pack Plugin to your admin page.
 4. Activate the plugin you\'re installing.
 5. You\'ll receive a notification requesting your site-id, follow the instructions there.
 
-**Don\'t forget** to register your site at [errnio](http://www.errnio.com/\"errnio registration\") 
-
+**Don't forget** to register your site at <a href=”http://errnio.com/#how-to-contact-errnio”>errnio.com</a>
 If you have any problems, contact us at supoort@errnio.com
 
-== Frequently asked questions ==
-
 == Frequently Asked Questions ==
+
 * **What is errnio?**
 errnio adds gesture based monetization to the mobile view of your site, and enhances user engagement with additional mobile functionality.errnio allows you to enjoy added revenue for your mobile traffic while any other monetization units continue to work undisturbed.
 * **What is the difference between errnio and other monetization units?**
