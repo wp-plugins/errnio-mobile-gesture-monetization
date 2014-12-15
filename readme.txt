@@ -24,10 +24,10 @@ Our main features include enhancement of the following items:
 * **Text Selection** - enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site. 
 * **Bottom bar** - in certain mobile browsers, an additional bottom bar is displayed, providing options of browsing related content, sharing, quick links to popular exit sites, and a new tab to continue browsing.
 
-= How it Work s=
-The errnio plugin reaches out to errnio servers and injects the errnio gesture recognition code.
+= How it Works =
+The **errnio plugin** reaches out to errnio servers and injects the errnio **gesture recognition code**.
 The gesture recognition code taps into your visitor gestures, performed on your site, and analyses which errnio monetization unit will work effectively - choosing among the several units detailed above. 
-errnio works with various 3rd party advertisers by connecting the right offers to the right gesture in the right context in and the right time - ONLY and EXCLUSIVELY within the errnio gesture functions. We never inject ads into your site!
+errnio works with various 3rd party advertisers by connecting the right offers to the right gesture in the right context in and the right time - **ONLY** and **EXCLUSIVELY** within the errnio gesture functions. We never inject ads into your site!
 
 Using the unique **errnio** plugin maxmizes your full monetization potential on mobile web. 
 
