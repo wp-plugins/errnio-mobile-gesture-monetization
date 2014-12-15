@@ -45,8 +45,8 @@ Adding the errnio monetization pack plugin to your admin page is pretty easy. Tr
 1. Go to the Plugins tab at your WP admin page and click on Add New.
 2. In the search box type in errnio and click on the Search Plugins button.
 3. Download the plugin.
-4. Activate the plugin you're installing.
-5. You'll receive a notification on your dashboard requesting your site ID, follow the instructions there.
+4. Activate the plugin you are installing.
+5. You should receive a notification on your dashboard requesting your site ID, follow the instructions there.
 
 **Don't forget** to register your site to get a site ID at <a href="http://www.errnio.com/" target="_blank">errnio!</a>
 If you have any problems, contact us at supoort@errnio.com
