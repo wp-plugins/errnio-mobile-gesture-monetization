@@ -48,7 +48,7 @@ Adding the errnio monetization pack Plugin to your admin page.
 4. Activate the plugin you\'re installing.
 5. You\'ll receive a notification requesting your site-id, follow the instructions there.
 
-**Don't forget** to register your site at <a href=”http://errnio.com/”>errnio</a>
+**Don't forget** to register your site at <a href="http://www.errnio.com/" target="_blank">errnio!</a>
 If you have any problems, contact us at supoort@errnio.com
 
 == Frequently Asked Questions ==
