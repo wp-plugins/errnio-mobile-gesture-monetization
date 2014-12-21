@@ -1,18 +1,18 @@
 === errnio Gesture Monetization ===
 Contributors: errnio
 Donate link: 
-Tags: mobile,advertising, ad units, pay per click, PPC,monetise, monetize
+Tags: mobile, advertising, ad units, pay per click, PPC, monetise, monetize, gesture
 Requires at least: 3.0
 Tested up to: 4.0.1
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-errnio adds gesture based monetization tools to the mobile view of the site. Enhances mobile engagement with additional mobile functionality. 
+errnio adds gesture based monetization tools to the mobile version of the site. It enhances mobile engagement if users with additional mobile functionality, to generate added monetization **without banners**, **without ads**. Try us now!
 
 == Description ==
 
-The **Gesture Monetization** pack from **errnio** adds a new revenue and engagement layer to your site with a simple addition of a plugin. The plugin enables several gesture based tools to be added to any mobile browsing session. The tools act as enhancements to regular bowser elements, which enhance the experience of the user on a mobile device. 
+The **Gesture Monetization** pack from **errnio** adds a new revenue and engagement layer to your site with a simple addition of a plugin. The plugin enables several gesture based tools to be added to any mobile browsing session. The tools act as enhancements to regular bowser elements, which enhance the experience of the user on a mobile device. Without adding **ads** or **banners**, errnio can enhance your revneue. Make **more** money from your site with **no more** banners or ads. No more pushy advertizing, be part of the revolution.  
 
 Demo this on your site in seconds with our cool <a href="http://www.errnio.com/simulator" target="_blank">Simulator!</a>
 
