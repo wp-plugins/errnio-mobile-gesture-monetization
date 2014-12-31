@@ -46,8 +46,6 @@ Make sure to get your ID and Sign up to our service to gain access to:
 
 == Installation ==
 
-*** use mobile here as well ***
-*** use ad unit here as well **
 
 Adding the errnio monetization pack plugin to your admin page is pretty easy. Try the below.
 
