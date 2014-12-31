@@ -98,6 +98,8 @@ We are currently running 3 products, more are available on beta mode. If you'd l
 
 == Changelog ==
 **0.1 Beta
+**1.0 version release
 
 == Upgrade Notice ==
 **0.1 beta release
+**1.0 version release
