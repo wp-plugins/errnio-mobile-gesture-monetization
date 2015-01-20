@@ -14,6 +14,7 @@ function errnio_plugin_menu() {
 }
 add_action('admin_menu', 'errnio_plugin_menu');
 
+
 // Errnio page - register
 if( !get_option("slider_option_width") ) {
 	add_option("errnio_api", '', '', 'yes');
