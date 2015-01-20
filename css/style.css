@@ -4,7 +4,7 @@
 	min-width: 480px; 
 	clear: both;
     display: block;
-    padding: 45px 10px 25px;
+    padding: 15px 10px 25px;
 	width: 95%;
 	list-style-type: none; 
 	background-color: #fafafa;
@@ -25,12 +25,9 @@
 		  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.065);
 }
 .wrap-options-left {
-    float: left;
-    padding-top: 24px;
     width: 49%;
 }
 .wrap-options-right{
-	float:left;
 	width:49%;
 }
 .wrap-options-separator{
@@ -57,7 +54,11 @@
 	display: block;
 	margin-bottom: 6px;
 	overflow: hidden;
-}	
+}
+.wrap-options-right .element{
+	margin-left: 20px;
+
+}		
 .wrap-options .button{
 	float:right;
 	margin: 0 20px 0 0;
@@ -85,8 +86,7 @@
 .wrap-options .description_small {
     color: #40a3cd;
     display: block;
-    margin: 15px auto;
-    text-align: center;
+   margin-left: 20px;
 }
 .clear{
 	clear:both;
