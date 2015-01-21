@@ -37,7 +37,7 @@ function errnio_options() {
 
 					<div class="wrap-options-left">
 						<div class="element">
-							<label>Errnio code:</label>
+							<label>Errnio Site ID:</label>
 							<input name="errnio_api" type="text" id="errnio_api" value="<?php echo get_option('errnio_api'); ?>" />
 						</div>
 					</div>
@@ -48,7 +48,6 @@ function errnio_options() {
 						<div class="element">
 							Don't have an errnio site ID? <a class="publisher_button" href="http://errnio.com/#contact" target="_blank">Become a Publisher</a> </div></br>
 							<div class="description_small">Grab our unique code for your site and go live today.</div>
-                            <div class="description_small" style="font-weight:bold;"> Here's a quick, easy step by step installation <a href="http://errnio.com/WP/wordpress-instructions.pdf" target="_blank">guide</a></div>
 						</div>
 					</div>
 
