@@ -3,7 +3,7 @@
 Plugin Name: Errnio
 Plugin URI: http://errnio.com
 Description: Errnio script on your site.
-Version: 1.0
+Version: 1.1
 Author: Errnio
 Author URI: http://errnio.com
 */

@@ -1,11 +1,11 @@
-=== errnio Gesture Monetization – Mobile revenue with no banner advertising, ===
+=== errnio Gesture Monetization ï¿½ Mobile revenue with no banner advertising, ===
 
 Contributors: errnio
 Donate link: 
 Tags: mobile, advertising, ad units, pay per click, PPC, monetise, monetize, gesture, advertizing, banners, make money
 Requires at least: 3.0
 Tested up to: 4.0.1
-Stable tag: trunk
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,8 +98,13 @@ We are currently running 3 products, more are available on beta mode. If you'd l
 3. errnio text select tool
 
 == Changelog ==
-**0.1 Beta
-**1.0 version release
+
+= 1.1 =
+* Performance improvements and settings page changes
+
+= 1.0 =
+* First version release
+
 
 == Upgrade Notice ==
 **0.1 beta release
