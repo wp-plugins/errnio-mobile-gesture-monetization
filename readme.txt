@@ -1,4 +1,4 @@
-=== errnio Gesture Monetization � Mobile revenue with no banner advertising, ===
+=== errnio Gesture Monetization - Mobile revenue with no banner advertising ===
 
 Contributors: errnio
 Donate link: 
