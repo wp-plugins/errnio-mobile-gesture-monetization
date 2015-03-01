@@ -2,7 +2,7 @@
 /*
 Plugin Name: Errnio
 Plugin URI: http://errnio.com
-Description: Errnio script on your site.
+Description: errnio adds gesture based monetization tools to the mobile version of the site. It enhances mobile engagement if users with additional mobile functionality, to generate added monetization without banners, without ads.
 Version: 1.1
 Author: Errnio
 Author URI: http://errnio.com
