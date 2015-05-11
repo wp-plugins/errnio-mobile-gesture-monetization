@@ -8,6 +8,8 @@ Author: Errnio
 Author URI: http://errnio.com
 */
 
+define('ERRNIO_INSTALLER_NAME', 'wordpress_gesture_monetization');
+
 // Utils
 function do_post_request($url, $data) {
     $data = json_encode( $data );
@@ -34,7 +36,11 @@ function errnio_createTagId() {
 		return NULL;
 	} else {
 		$tagId = $response->tagId;
-	 	add_option(ERRNIO_OPTION_NAME_TAGID, $tagId);
+		if (get_option(ERRNIO_OPTION_NAME_TAGID) == '') {
+			update_option(ERRNIO_OPTION_NAME_TAGID, $tagId);
+		} else {
+			add_option(ERRNIO_OPTION_NAME_TAGID, $tagId);
+		}
 	 	add_option(ERRNIO_OPTION_NAME_TAGTYPE, ERRNIO_TAGTYPE_TEMP);
 	}
 
@@ -60,7 +66,7 @@ function checkShouldRegister() {
 
 	if (!$tagtype) {
 		// No tag type - means legacy user
-		if (!$tagId) {
+		if (!$tagId || empty($tagId)) {
 			// No tag type + no tag id - means legacy user never registered - needs temp tag id
 			$shouldregister = true;
 			$tagId = errnio_createTagId();
@@ -89,7 +95,6 @@ define('ERRNIO_OPTION_NAME_REGISTERED', 'errnio_registered');
 define('ERRNIO_OPTION_NAME_TAGTYPE', 'errnio_api_type');
 define('ERRNIO_OPTION_NAME_PLUGINNAME', 'errnio_plugin_name');
 // Constants
-define('ERRNIO_INSTALLER_NAME', 'wordpress_gesture_monetization');
 define('ERRNIO_EVENT_NAME_ACTIVATE', 'wordpress_activated');
 define('ERRNIO_EVENT_NAME_DEACTIVATE', 'wordpress_deactivated');
 define('ERRNIO_EVENT_NAME_UNINSTALL', 'wordpress_uninstalled');
@@ -102,8 +107,10 @@ function errnio_activate() {
 	if ( ! current_user_can( 'activate_plugins' ) )
 	        return;
 
+	$tagId = get_option(ERRNIO_OPTION_NAME_TAGID);
+
  	// If tagId option exists - reset it, then create new temp tag - use will procede to errnio settings
-	if (get_option(ERRNIO_OPTION_NAME_TAGID)) {
+	if ($tagId != NULL && !empty($tagId)) {
 		// TagId exists - but no type flag - means legacy user - means tagId is permanent
 		if (!get_option(ERRNIO_OPTION_NAME_TAGTYPE)) {
 			add_option(ERRNIO_OPTION_NAME_TAGTYPE, ERRNIO_TAGTYPE_PERM);
@@ -241,7 +248,7 @@ function errnio_load_script() {
 
 	$tagId = get_option(ERRNIO_OPTION_NAME_TAGID);
 
-	if (!$tagId) {
+	if (!$tagId || empty($tagId)) {
 		$tagId = errnio_createTagId();
 	}
 
