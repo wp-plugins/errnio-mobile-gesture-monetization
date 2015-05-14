@@ -254,7 +254,7 @@ function errnio_load_script() {
 
 	if ($tagId) {
 		$script_url = "//service.errnio.com/loader?tagid=".$tagId;
-		wp_register_script($handle, $script_url);
+		wp_register_script($handle, $script_url, false, '1.0', true);
 		wp_enqueue_script($handle );
 	}
 }
