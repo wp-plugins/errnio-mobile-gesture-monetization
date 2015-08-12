@@ -24,6 +24,7 @@ To be eligible for our revenue program please make sure register with us.
 
 = Features =
 Our main features include enhancement of the following items:
+
 * **Scroll Web Search** - a web search box is added to the top of the screen. An additional layer of content and recommended actions is added, labeled "top hits". This serves users with promoted actions and content helping you as a site owner looking to make profit from advertising, to earn revenue off exiting traffic in a seamless and unobtrusive way with no banners or ads.
 * **Tap Text Selection** - enhanced with a simple addition of promoted actions like search, share or related content. Much like our search offers, these promoted actions enable you as a site owner to add incremental revenue to the site with no banners or ads.
 * **Swipe Content Recommendation** - an engagement adding a gallery of your site articles as well as related web articles on swipe left gestures.
